@@ -1,6 +1,6 @@
 # Amharic Text Generation with Transformer
 
-This repository contains the implementation of a character-level text generation model for Amharic language using a Transformer architecture. The model is trained to replicate Amharic news-like text based on a provided dataset.
+This repository contains the implementation of a bytes-level text generation model for Amharic language using a Transformer architecture. The model is trained to replicate Amharic news-like text based on a provided dataset.
 
 ## Model Architecture
 
